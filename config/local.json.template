@@ -2,8 +2,8 @@
   "pm-20": [
     {
       "credentials": {
-        "access_key": "xxx",
-        "url": "xxx"
+  "url": "https://ibm-watson-ml.mybluemix.net",
+  "access_key": "pe6xS7IyLrjuYIBf8/s63lYQEzojU1LRK5+XSvTNic7DZrzFlniGZzhlTMDdp+HsHxGxQ3pIogjgEOjN0TGDTcL0h32gVzPkwMbmHXNpi+FQYUqQmv73SQJrb1WXWeZv",
       }
     }
   ]
